@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/fastcast-test/static/css/main.0eebd8ea.css",
+    "main.js": "/fastcast-test/static/js/main.a175a04a.js",
+    "static/media/rokuTVLogo.png": "/fastcast-test/static/media/rokuTVLogo.449a8fbdbba69f092188.png",
+    "static/media/radio.jpg": "/fastcast-test/static/media/radio.da4eb9e5cedc1d9c0878.jpg",
+    "static/media/rokuTV.webp": "/fastcast-test/static/media/rokuTV.7c2c9b58b6fc3d7b3ecf.webp",
+    "static/media/heroTVPicture.webp": "/fastcast-test/static/media/heroTVPicture.e5b8fabb87d7d94b3001.webp",
+    "static/media/mainScreen.jpg": "/fastcast-test/static/media/mainScreen.458fbe1b963c41742ce9.jpg",
+    "static/media/appStore.png": "/fastcast-test/static/media/appStore.51029e6ffe1bc31e1545.png",
+    "static/media/emptyScreen.png": "/fastcast-test/static/media/emptyScreen.5f95bc54dcc4d75a41ca.png",
+    "static/media/amazon.png": "/fastcast-test/static/media/amazon.fed850618dc8eb3a7be8.png",
+    "static/media/controller.png": "/fastcast-test/static/media/controller.b9464a25140dce7bd190.png",
+    "static/media/tvBlock.png": "/fastcast-test/static/media/tvBlock.6286c07711f10f7e0f93.png",
+    "static/media/androidTV.png": "/fastcast-test/static/media/androidTV.862a6ae18c341cffc1cc.png",
+    "static/media/coins.svg": "/fastcast-test/static/media/coins.d5451e313252f587958dfdcd55f33137.svg",
+    "static/media/companyLogo.webp": "/fastcast-test/static/media/companyLogo.21f1ccd561ffb071ab8b.webp",
+    "static/media/googlePlay.webp": "/fastcast-test/static/media/googlePlay.5114de9d0b93df787e49.webp",
+    "static/media/monitor.svg": "/fastcast-test/static/media/monitor.e1c8a603fd2619eab9f2788b4ee2e3d4.svg",
+    "static/media/micro.svg": "/fastcast-test/static/media/micro.30d79aec3765b0d95add3c29a8bdf0a8.svg",
+    "static/media/support.svg": "/fastcast-test/static/media/support.82aeefc1b82d527d3d4ecbcb583433c9.svg",
+    "static/media/spaceShipsvg.svg": "/fastcast-test/static/media/spaceShipsvg.6fb9cba253cc0f3bd71f883cf4e649df.svg",
+    "static/media/transfer.svg": "/fastcast-test/static/media/transfer.0162eda0aeca29ccd2eb3b4e2f81c3d0.svg",
+    "index.html": "/fastcast-test/index.html",
+    "static/media/dot.webp": "/fastcast-test/static/media/dot.20de99abced2b5244f3e.webp",
+    "main.0eebd8ea.css.map": "/fastcast-test/static/css/main.0eebd8ea.css.map",
+    "main.a175a04a.js.map": "/fastcast-test/static/js/main.a175a04a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eebd8ea.css",
+    "static/js/main.a175a04a.js"
+  ]
+}
