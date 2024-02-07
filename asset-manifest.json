@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fastcast-test/static/css/main.0eebd8ea.css",
-    "main.js": "/fastcast-test/static/js/main.a175a04a.js",
+    "main.js": "/fastcast-test/static/js/main.5af0730c.js",
     "static/media/rokuTVLogo.png": "/fastcast-test/static/media/rokuTVLogo.449a8fbdbba69f092188.png",
     "static/media/radio.jpg": "/fastcast-test/static/media/radio.da4eb9e5cedc1d9c0878.jpg",
     "static/media/rokuTV.webp": "/fastcast-test/static/media/rokuTV.7c2c9b58b6fc3d7b3ecf.webp",
@@ -24,10 +24,10 @@
     "index.html": "/fastcast-test/index.html",
     "static/media/dot.webp": "/fastcast-test/static/media/dot.20de99abced2b5244f3e.webp",
     "main.0eebd8ea.css.map": "/fastcast-test/static/css/main.0eebd8ea.css.map",
-    "main.a175a04a.js.map": "/fastcast-test/static/js/main.a175a04a.js.map"
+    "main.5af0730c.js.map": "/fastcast-test/static/js/main.5af0730c.js.map"
   },
   "entrypoints": [
     "static/css/main.0eebd8ea.css",
-    "static/js/main.a175a04a.js"
+    "static/js/main.5af0730c.js"
   ]
 }
