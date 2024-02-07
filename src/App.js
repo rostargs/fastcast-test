@@ -1,24 +1,37 @@
-import logo from './logo.svg';
-import './App.css';
+// Router
+import { Route, Routes } from "react-router-dom";
+// Layouts
+import AppLayout from "./layouts/AppLayout";
+// Pages
+import RokuTV from "./pages/RokuTV";
+import AppTV from "./pages/AppTV";
+import Order from "./pages/Order";
+// React
+import { createContext } from "react";
+// Hooks
+import { useToggleColorMode } from "./hooks/useToggleColorMode";
+// MUI
+import { ThemeProvider } from "@mui/material";
+import CssBaseline from "@mui/material/CssBaseline";
+
+export const ColorModeContext = createContext({ toggleColorMode: () => {} });
 
 function App() {
+  const { theme, colorMode } = useToggleColorMode();
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ColorModeContext.Provider value={colorMode}>
+      <ThemeProvider theme={theme}>
+        <CssBaseline enableColorScheme />
+        <Routes>
+          <Route path="/" element={<AppLayout />}>
+            <Route path="/app-tv" element={<AppTV />} />
+            <Route path="/roku-tv" element={<RokuTV />} />
+            <Route path="/order/package" element={<Order />} />
+          </Route>
+        </Routes>
+      </ThemeProvider>
+    </ColorModeContext.Provider>
   );
 }
 
