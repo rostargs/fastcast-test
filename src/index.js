@@ -12,7 +12,7 @@ import { Snowfall } from "react-snowfall";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="fastcast-test">
       <Snowfall snowflakeCount={20} style={{ position: "fixed", height: "100vh", width: "100vw" }} />
       <App />
     </BrowserRouter>
