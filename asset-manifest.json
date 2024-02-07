@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fastcast-test/static/css/main.0eebd8ea.css",
-    "main.js": "/fastcast-test/static/js/main.5af0730c.js",
+    "main.js": "/fastcast-test/static/js/main.5df92d7e.js",
     "static/media/rokuTVLogo.png": "/fastcast-test/static/media/rokuTVLogo.449a8fbdbba69f092188.png",
     "static/media/radio.jpg": "/fastcast-test/static/media/radio.da4eb9e5cedc1d9c0878.jpg",
     "static/media/rokuTV.webp": "/fastcast-test/static/media/rokuTV.7c2c9b58b6fc3d7b3ecf.webp",
@@ -20,14 +20,14 @@
     "static/media/micro.svg": "/fastcast-test/static/media/micro.30d79aec3765b0d95add3c29a8bdf0a8.svg",
     "static/media/support.svg": "/fastcast-test/static/media/support.82aeefc1b82d527d3d4ecbcb583433c9.svg",
     "static/media/spaceShipsvg.svg": "/fastcast-test/static/media/spaceShipsvg.6fb9cba253cc0f3bd71f883cf4e649df.svg",
-    "static/media/transfer.svg": "/fastcast-test/static/media/transfer.0162eda0aeca29ccd2eb3b4e2f81c3d0.svg",
     "index.html": "/fastcast-test/index.html",
+    "static/media/transfer.svg": "/fastcast-test/static/media/transfer.0162eda0aeca29ccd2eb3b4e2f81c3d0.svg",
     "static/media/dot.webp": "/fastcast-test/static/media/dot.20de99abced2b5244f3e.webp",
     "main.0eebd8ea.css.map": "/fastcast-test/static/css/main.0eebd8ea.css.map",
-    "main.5af0730c.js.map": "/fastcast-test/static/js/main.5af0730c.js.map"
+    "main.5df92d7e.js.map": "/fastcast-test/static/js/main.5df92d7e.js.map"
   },
   "entrypoints": [
     "static/css/main.0eebd8ea.css",
-    "static/js/main.5af0730c.js"
+    "static/js/main.5df92d7e.js"
   ]
 }
